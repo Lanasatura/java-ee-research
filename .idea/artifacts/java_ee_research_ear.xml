@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="java-ee-research:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_ee_research_ear</output-path>
+    <root id="archive" name="java-ee-research_ear.ear">
+      <element id="artifact" artifact-name="java-ee-research:ear exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
